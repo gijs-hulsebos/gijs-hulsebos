@@ -27,12 +27,14 @@ Currently showcasing an **Enterprise-Grade AI Calendar Assistant**. This isn't j
 
 * **Automation Orchestration:** n8n (Advanced), Zapier, Make
 * **AI & LLMs:** Agentic Reasoning, Prompt Engineering, OpenRouter (Gemini 1.5, GPT-4o)
-* **Integrations:** Google Workspace API, Gmail API, Webhooks, REST APIs
+* **Deployment & Infra:** Vercel, Railway, Docker, DNS/SSL Configuration, Webhooks
+* **Integrations:** Google Workspace API, Gmail API, REST APIs
 * **Development:** Node.js, Python, Markdown Documentation
 
 ---
 
 ### 📈 What I Bring to a Team
+* **End-to-End Deployment:** Expert in taking workflows from local development to production on **Vercel** or **Railway**, including custom domain and DNS management.
 * **The Agentic Mindset:** I don't just build linear flows; I build agents that can reason and recover from errors.
 * **Professional Documentation:** I treat automations like software, ensuring every workflow is perfectly documented and maintainable.
 * **Business Impact:** Focused on turning complex manual processes into sub-second autonomous actions.
