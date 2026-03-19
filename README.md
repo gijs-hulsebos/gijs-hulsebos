@@ -14,44 +14,36 @@
 
 ---
 
-# 🤖 AI Automation Engineer 
-
-I build **autonomous agentic workflows** that bridge the gap between Large Language Models (LLMs) and complex business logic. My focus is on creating scalable, error-resilient systems using **n8n**, **OpenRouter**, and **Python**.
-
----
-
-### 🚀 Featured Project: n8n Automation Hub
-**[Check the Repository →](https://github.com/gijs-hulsebos/n8n-automation)**
-
-Currently showcasing an **Enterprise-Grade AI Calendar Assistant**. This isn't just a simple booking tool; it's a reasoning agent with:
-* **Fallback Logic:** Handles edge cases when the LLM output is non-deterministic.
-* **Contextual Memory:** Remembers previous interactions for seamless scheduling.
-* **Security First:** Built with strict verification gates to prevent unauthorized calendar access.
+### 🤖 AI Automation Engineer 
+I build **autonomous agentic workflows** that bridge the gap between LLMs and complex business logic. Focused on scalable, error-resilient systems using **n8n**, **OpenRouter**, and **Python**.
 
 ---
 
-### 🛠️ Technical Stack & Expertise
-
-* **Automation Orchestration:** n8n (Advanced), Zapier, Make
-* **AI & LLMs:** Agentic Reasoning, Prompt Engineering, OpenRouter (Gemini 1.5, GPT-4o)
-* **Deployment & Infra:** Vercel, Railway, Docker, DNS/SSL Configuration, Webhooks
-* **Integrations:** Google Workspace API, Gmail API, REST APIs
-* **Development:** Node.js, Python, Markdown Documentation
+### 🚀 Featured: [n8n Automation Hub](https://github.com/gijs-hulsebos/n8n-automation)
+Showcasing an **Enterprise-Grade AI Calendar Assistant**. This reasoning agent features:
+* **Fallback Logic:** Handles edge cases and non-deterministic LLM outputs.
+* **Contextual Memory:** Persistent state for seamless multi-step scheduling.
+* **Security First:** Strict verification gates for calendar/API access.
 
 ---
 
-### 📈 What I Bring to a Team
-* **End-to-End Deployment:** Expert in taking workflows from local development to production on **Vercel** or **Railway**, including custom domain and DNS management.
-* **The Agentic Mindset:** I don't just build linear flows; I build agents that can reason and recover from errors.
-* **Professional Documentation:** I treat automations like software, ensuring every workflow is perfectly documented and maintainable.
-* **Business Impact:** Focused on turning complex manual processes into sub-second autonomous actions.
+### 🛠️ Technical Stack
+* **Orchestration:** n8n (Advanced), Python, REST APIs, Webhooks.
+* **AI & LLMs:** Agentic Reasoning, OpenRouter (Gemini 1.5, GPT-4o).
+* **Infra & Ops:** Vercel, Railway, Docker, DNS/SSL Management.
+* **Integrations:** Google Workspace, Gmail API, Enterprise SaaS.
+
+---
+
+### 📈 Core Focus
+* **End-to-End Deployment:** Moving workflows from local dev to production (Vercel/Railway).
+* **Agentic Mindset:** Building self-healing agents that reason and recover from errors.
+* **Engineering Standards:** Treating automations as software—documented, versioned, and maintainable.
 
 ---
 
 ### 🌐 Let's Connect
-I am currently **open for new opportunities** and collaborations in the AI Automation space.
+Currently **open for new opportunities** and high-impact collaborations.
 
 * **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-* **Email:** [gijs@gijshulsebos.com]
-
-*"Standardizing the future of work through intelligent automation."*
+* **Email:** gijs@gijshulsebos.com
