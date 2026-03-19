@@ -4,11 +4,11 @@
 
 <p align="center">
   <a href="https://gijshulsebos.com">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=flat&logo=googlechrome&logoColor=white" alt="Website">
+    <img src="https://img.shields.io/badge/gijshulsebos.com-000000?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
   </a>
   &nbsp;
   <a href="https://www.linkedin.com/in/gijs-hulsebos">
-    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat&logo=linkedin&logoColor=white" alt="LinkedIn">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
 
