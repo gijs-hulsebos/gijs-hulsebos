@@ -1,16 +1,49 @@
-## Hi there 👋
+# 🤖 AI Automation Engineer | Gijs Hulsebos
 
-<!--
-**gijs-hulsebos/gijs-hulsebos** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left">
+  <a href="https://gijshulsebos.com">
+    <img src="https://img.shields.io/badge/Portfolio-gijshulsebos.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
+  </a>
+  <a href="https://www.linkedin.com/in/gijs-hulsebos">
+    <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
+  </a>
+</p>
 
-Here are some ideas to get you started:
+I build **autonomous agentic workflows** that bridge the gap between Large Language Models (LLMs) and complex business logic. My focus is on creating scalable, error-resilient systems using **n8n**, **OpenRouter**, and **Python**.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+---
+
+### 🚀 Featured Project: n8n Automation Hub
+**[Check the Repository →](https://github.com/gijs-hulsebos/n8n-automation)**
+
+Currently showcasing an **Enterprise-Grade AI Calendar Assistant**. This isn't just a simple booking tool; it's a reasoning agent with:
+* **Fallback Logic:** Handles edge cases when the LLM output is non-deterministic.
+* **Contextual Memory:** Remembers previous interactions for seamless scheduling.
+* **Security First:** Built with strict verification gates to prevent unauthorized calendar access.
+
+---
+
+### 🛠️ Technical Stack & Expertise
+
+* **Automation Orchestration:** n8n (Advanced), Zapier, Make
+* **AI & LLMs:** Agentic Reasoning, Prompt Engineering, OpenRouter (Gemini 1.5, GPT-4o)
+* **Integrations:** Google Workspace API, Gmail API, Webhooks, REST APIs
+* **Development:** Node.js, Python, Markdown Documentation
+
+---
+
+### 📈 What I Bring to a Team
+* **The Agentic Mindset:** I don't just build linear flows; I build agents that can reason and recover from errors.
+* **Professional Documentation:** I treat automations like software, ensuring every workflow is perfectly documented and maintainable.
+* **Business Impact:** Focused on turning complex manual processes into sub-second autonomous actions.
+
+---
+
+### 🌐 Let's Connect
+I am currently **open for new opportunities** and collaborations in the AI Automation space.
+
+* **Website:** [gijshulsebos.com](https://gijshulsebos.com)
+* **Email:** [Check my website for contact details]
+* **Location:** Breda, Netherlands (Available for Remote/Global projects)
+
+*"Standardizing the future of work through intelligent automation."*
