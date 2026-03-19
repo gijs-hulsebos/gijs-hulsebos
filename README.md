@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="https://raw.githubusercontent.com/gijs-hulsebos/gijs-hulsebos/main/GijsHulsebos.banner.png" alt="Gijs Hulsebos AI Automation" width="100%" />
+</p>
+
 # 🤖 AI Automation Engineer | Gijs Hulsebos
 
 <p align="left">
