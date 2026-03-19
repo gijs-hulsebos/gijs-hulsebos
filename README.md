@@ -43,7 +43,6 @@ Currently showcasing an **Enterprise-Grade AI Calendar Assistant**. This isn't j
 I am currently **open for new opportunities** and collaborations in the AI Automation space.
 
 * **Website:** [gijshulsebos.com](https://gijshulsebos.com)
-* **Email:** [Check my website for contact details]
-* **Location:** Breda, Netherlands (Available for Remote/Global projects)
+* **Email:** [gijs@gijshulsebos.com]
 
 *"Standardizing the future of work through intelligent automation."*
