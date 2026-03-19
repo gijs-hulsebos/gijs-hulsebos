@@ -2,8 +2,6 @@
   <img src="https://raw.githubusercontent.com/gijs-hulsebos/gijs-hulsebos/main/GijsHulsebos.banner.png" alt="Gijs Hulsebos AI Automation" width="100%" />
 </p>
 
-# 🤖 AI Automation Engineer 
-
 <p align="left">
   <a href="https://gijshulsebos.com">
     <img src="https://img.shields.io/badge/Portfolio-gijshulsebos.com-blue?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Website">
@@ -12,6 +10,8 @@
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
+
+# 🤖 AI Automation Engineer 
 
 I build **autonomous agentic workflows** that bridge the gap between Large Language Models (LLMs) and complex business logic. My focus is on creating scalable, error-resilient systems using **n8n**, **OpenRouter**, and **Python**.
 
