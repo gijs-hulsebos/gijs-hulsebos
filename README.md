@@ -35,14 +35,11 @@ Showcasing an **Enterprise-Grade AI Calendar Assistant**. This reasoning agent f
 
 ---
 
-### 🎓 AI Certifications & Continuous Learning
-I am committed to staying at the forefront of AI development. Currently completing the **Google AI Essentials Specialization** and adding new credentials weekly:
+### 🎓 AI Credentials & Continuous Learning
+I am building a high-velocity AI portfolio, completing industry-leading certifications weekly to stay at the forefront of LLM orchestration.
 
-* **Google:** AI Fundamentals
-* **Google:** AI for Writing and Communicating
-* **Google:** AI for Research and Insights
-* **Google:** AI for Brainstorming and Planning
-* **Google:** AI for Content Creation
+* **Google:** [AI Professional Certificate](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/AI-Professional) — **Completed March 2026**
+    * *Core focus: Prompt Engineering, AI Productivity, and Generative AI Workflows.*
 
 ---
 
