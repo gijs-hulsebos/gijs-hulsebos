@@ -35,6 +35,17 @@ Showcasing an **Enterprise-Grade AI Calendar Assistant**. This reasoning agent f
 
 ---
 
+### 🎓 AI Certifications & Continuous Learning
+I am committed to staying at the forefront of AI development. Currently completing the **Google AI Essentials Specialization** and adding new credentials weekly:
+
+* **Google:** AI Fundamentals
+* **Google:** AI for Writing and Communicating
+* **Google:** AI for Research and Insights
+* **Google:** AI for Brainstorming and Planning
+* **Google:** AI for Content Creation
+
+---
+
 ### 📈 Core Focus
 * **End-to-End Deployment:** Moving workflows from local dev to production (Vercel/Railway).
 * **Agentic Mindset:** Building self-healing agents that reason and recover from errors.
