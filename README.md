@@ -35,8 +35,8 @@ Showcasing an **Enterprise-Grade AI Calendar Assistant**. This reasoning agent f
 
 ---
 
-### 🎓 AI Credentials & Continuous Learning
-I am building a high-velocity AI portfolio, completing industry-leading certifications weekly to stay at the forefront of LLM orchestration.
+### 🎓 AI Credentials & [Certificates](https://github.com/gijs-hulsebos/Certificates)
+Building a high-velocity AI portfolio by completing full industry-leading certifications weekly, staying at the forefront of LLM orchestration and autonomous agentic workflows.
 
 * **Google:** [AI Professional Certificate](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/AI-Professional) — **Completed March 2026**
     * *Core focus: Prompt Engineering, AI Productivity, and Generative AI Workflows.*
