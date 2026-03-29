@@ -36,13 +36,14 @@ Showcasing an **Enterprise-Grade AI Calendar Assistant**. This reasoning agent f
 ---
 
 ### 🎓 AI & Technical Credentials [Certificates](https://github.com/gijs-hulsebos/Certificates)
-Building a high-velocity AI portfolio by completing industry-leading certifications weekly, specializing in LLM orchestration and autonomous agentic workflows.
+Building a comprehensive AI portfolio specializing in LLM orchestration, autonomous agentic workflows, and advanced prompting techniques.
 
-| Date | Platform | Certificate | Key Focus |
-| :--- | :--- | :--- | :--- |
-| Mar 2026 | **Anthropic** | [Introduction to MCP](https://github.com/gijs-hulsebos/Certificates/tree/main/Anthropic/Introduction%20to%20Model%20Context%20Protocol) | MCP Architecture, Data Connectors, Tool-use |
-| Mar 2026 | **Google Cloud** | [Workspace with Gemini](https://github.com/gijs-hulsebos/Certificates/tree/main/Google%20Cloud/Gemini%20for%20the%20Google%20Workspace%20Specialisation) | AI Productivity, Enterprise Integration |
-| Mar 2026 | **Google** | [AI Professional](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/AI-Professional) | Prompt Engineering, GenAI Workflows |
+| Platform | Certificate | Key Focus |
+| :--- | :--- | :--- |
+| **Anthropic** | [Introduction to MCP](https://github.com/gijs-hulsebos/Certificates/tree/main/Anthropic/Introduction%20to%20Model%20Context%20Protocol) | MCP Architecture, Data Connectors, Tool-use |
+| **Google Cloud** | [Workspace with Gemini](https://github.com/gijs-hulsebos/Certificates/tree/main/Google%20Cloud/Gemini%20for%20the%20Google%20Workspace%20Specialisation) | AI Productivity, Enterprise Integration |
+| **Google** | [AI Professional](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/AI-Professional) | Prompt Engineering, GenAI Workflows |
+| | ↳ [Prompting Essentials](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/Google%20Prompting%20Essentials%20Specialization) | Advanced Prompting, Logic-based AI Interaction |
 
 ---
 
