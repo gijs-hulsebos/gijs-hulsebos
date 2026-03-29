@@ -29,7 +29,7 @@ Showcasing an **Enterprise-Grade AI Calendar Assistant**. This reasoning agent f
 
 ### 🛠️ Technical Stack
 * **Orchestration:** n8n (Advanced), Python, REST APIs, Webhooks.
-* **AI & LLMs:** Agentic Reasoning, OpenRouter (Gemini 1.5, GPT-4o).
+* **AI & LLMs:** Agentic Reasoning, OpenRouter (Gemini 2.5, GPT-4o).
 * **Infra & Ops:** Vercel, Railway, Docker, DNS/SSL Management.
 * **Integrations:** Google Workspace, Gmail API, Enterprise SaaS.
 
