@@ -36,16 +36,13 @@ Showcasing an **Enterprise-Grade AI Calendar Assistant**. This reasoning agent f
 ---
 
 ### 🎓 AI & Technical Credentials [Certificates](https://github.com/gijs-hulsebos/Certificates)
-Building a high-velocity AI portfolio by completing industry-leading certifications weekly, specializing in LLM orchestration, autonomous agentic workflows, and AI-driven productivity.
+Building a high-velocity AI portfolio by completing industry-leading certifications weekly, specializing in LLM orchestration and autonomous agentic workflows.
 
-* **Anthropic:** [Introduction to Model Context Protocol](https://github.com/gijs-hulsebos/Certificates/tree/main/Anthropic/Introduction%20to%20Model%20Context%20Protocol) — **Completed March 2026**
-    * *Core focus: MCP architecture, connecting LLMs to external data sources, and building tool-use ecosystems.*
-    
-* **Google Cloud:** [Google Workspace with Gemini Specialization](https://github.com/gijs-hulsebos/Certificates/tree/main/Google%20Cloud/Gemini%20for%20the%20Google%20Workspace%20Specialisation) — **Completed March 2026**
-    * *Core focus: AI-driven productivity, Gemini integration across Enterprise systems, and workflow automation.*
-    
-* **Google:** [AI Professional Certificate](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/AI-Professional) — **Completed March 2026**
-    * *Core focus: Prompt Engineering, Generative AI Workflows, and Applied AI Productivity.*
+| Date | Platform | Certificate | Key Focus |
+| :--- | :--- | :--- | :--- |
+| Mar 2026 | **Anthropic** | [Introduction to MCP](https://github.com/gijs-hulsebos/Certificates/tree/main/Anthropic/Introduction%20to%20Model%20Context%20Protocol) | MCP Architecture, Data Connectors, Tool-use |
+| Mar 2026 | **Google Cloud** | [Workspace with Gemini](https://github.com/gijs-hulsebos/Certificates/tree/main/Google%20Cloud/Gemini%20for%20the%20Google%20Workspace%20Specialisation) | AI Productivity, Enterprise Integration |
+| Mar 2026 | **Google** | [AI Professional](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/AI-Professional) | Prompt Engineering, GenAI Workflows |
 
 ---
 
