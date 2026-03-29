@@ -38,6 +38,8 @@ Showcasing an **Enterprise-Grade AI Calendar Assistant**. This reasoning agent f
 ### 🎓 AI Credentials & [Certificates](https://github.com/gijs-hulsebos/Certificates)
 Building a high-velocity AI portfolio by completing full industry-leading certifications weekly, staying at the forefront of LLM orchestration and autonomous agentic workflows.
 
+* **Google Cloud:** [Google Workspace with Gemini Specialization](https://github.com/gijs-hulsebos/Certificates/tree/main/Google%20Cloud/Gemini%20for%20the%20Google%20Workspace%20Specialisation) — **Completed March 2026**
+    * *Core focus: AI-driven productivity, Gemini integration across Workspace, and streamlining business workflows.*
 * **Google:** [AI Professional Certificate](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/AI-Professional) — **Completed March 2026**
     * *Core focus: Prompt Engineering, AI Productivity, and Generative AI Workflows.*
 
