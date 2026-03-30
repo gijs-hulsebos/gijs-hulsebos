@@ -45,6 +45,10 @@ Building a comprehensive AI portfolio specializing in LLM orchestration, autonom
 | **Google** | [AI Professional](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/AI-Professional) | Prompt Engineering, GenAI Workflows |
 | | ↳ [Prompting Essentials](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/Google%20Prompting%20Essentials%20Specialization) | Advanced Prompting, Logic-based AI Interaction |
 
+> [!NOTE]
+> Additional specialized micro-credentials and fundamental courses are archived in various [Misc folders](https://github.com/gijs-hulsebos/Certificates).<br>
+> Reflecting a commitment to continuous AI literacy and staying current with evolving LLM capabilities.
+
 ---
 
 ### 📈 Core Focus
