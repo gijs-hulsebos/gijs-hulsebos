@@ -29,7 +29,7 @@ Showcasing an **Enterprise-Grade AI Calendar Assistant**. This reasoning agent f
 
 ### 🛠️ Technical Stack
 * **Orchestration:** n8n (Advanced), Python, REST APIs, Webhooks.
-* **AI & LLMs:** Agentic Reasoning, OpenRouter (Gemini 2.5, GPT-4o).
+* **AI & LLMs:** Agentic Reasoning, OpenRouter (Gemini, GPT, DeepSeek).
 * **Infra & Ops:** Vercel, Railway, Docker, DNS/SSL Management.
 * **Integrations:** Google Workspace, Gmail API, Enterprise SaaS.
 
@@ -40,6 +40,7 @@ Building a comprehensive AI portfolio specializing in LLM orchestration, autonom
 
 | Platform | Certificate | Key Focus |
 | :--- | :--- | :--- |
+| **Wharton University** | [AI For Business Specialization](https://github.com/gijs-hulsebos/Certificates/tree/main/University%20of%20Pennsylvania%20(Wharton)/AI%20For%20Business%20Specialization) | AI Strategy, Business Transformation, Implementation |
 | **Anthropic** | [Introduction to MCP](https://github.com/gijs-hulsebos/Certificates/tree/main/Anthropic/Introduction%20to%20Model%20Context%20Protocol) | MCP Architecture, Data Connectors, Tool-use |
 | **Google Cloud** | [Workspace with Gemini](https://github.com/gijs-hulsebos/Certificates/tree/main/Google%20Cloud/Gemini%20for%20the%20Google%20Workspace%20Specialisation) | AI Productivity, Enterprise Integration |
 | **Google** | [AI Professional](https://github.com/gijs-hulsebos/Certificates/tree/main/Google/AI-Professional) | Prompt Engineering, GenAI Workflows |
